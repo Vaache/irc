@@ -1,0 +1,10 @@
+#ifndef IRC_IRCCLIENTCONNECTION_HPP
+#define IRC_IRCCLIENTCONNECTION_HPP
+
+
+class IRCClientConnection {
+
+};
+
+
+#endif //IRC_IRCCLIENTCONNECTION_HPP

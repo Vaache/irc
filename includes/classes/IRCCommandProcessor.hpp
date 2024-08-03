@@ -1,0 +1,10 @@
+#ifndef IRC_IRCCOMMANDPROCESSOR_HPP
+#define IRC_IRCCOMMANDPROCESSOR_HPP
+
+
+class IRCCommandProcessor {
+
+};
+
+
+#endif //IRC_IRCCOMMANDPROCESSOR_HPP
